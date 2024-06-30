@@ -5,6 +5,8 @@ items:
     href: about.md
   - name: Additional page 
     href: page.md
+  - name: New page
+    href: new-page.md
   - name: Another page 
     href: anotherpage.md
   - name: Sub-Section 
