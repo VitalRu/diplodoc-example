@@ -34,7 +34,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build docs
-        uses: diplodoc-platform/docs-build-action@v3
+        uses: diplodoc-platform/docs-build-action@v2
         with:
           src-root: './docs'
           build-root: './build'
